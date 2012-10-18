@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Pretarca</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">AndroidBase</string>
+    <string name="poesia">Benedetto sia  l giorno e  l mese e l  anno 
+                          e la stagione e  l tempo e l  ora e  l punto 
+                          e  l bel paese e  l loco ov' io fui giunto 
+                          da duo begli occhi che legato m  ànno ; </string>
+                          <color name="Giallo">#ffff00</color>
+    
+
+</resources>
