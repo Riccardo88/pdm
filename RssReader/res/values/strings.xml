@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">RssReader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_rss_reader">RssReader</string>
+
+    <string name="titolo">Rocket Rollout</string>
+    <string name="descrizione">The Soyuz rocket is rolled out to the launch pad by train, on Sunday, Oct. 21, 2012, at the Baikonur Cosmodrome in Kazakhstan. Launch of the Soyuz rocket is scheduled for Tuesday, Oct. 23. The rocket will send Expedition 33/34 Flight Engineer Kevin Ford of NASA, Soyuz Commander Oleg Novitskiy and Flight Engineer Engineer Evgeny Tarelkin of ROSCOSMOS on a five-month mission aboard the International Space Station. Image Credit: NASA Bill Ingalls</string>
+    <string name="data">Mon, 22 Oct 2012 00:00:00 EDT</string>
+    
+
+</resources>
